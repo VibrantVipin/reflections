@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when we initialize a repository its git repo is formed with no commits 
+to initialize repo
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+stagging area is different from working directory as it saves the file before commiting those files.
+and repository is a collection of files 
+it offers storing file temporarily.
