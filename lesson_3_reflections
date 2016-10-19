@@ -1,2 +1,8 @@
 this is the third lesson and we are learning about github.
 In that we are doing push and also if file is present at github but not on local repository then what happen let's see.
+
+
+When would you want to use a remote repository rather than keeping all your work local?
+1. when i am collborating with other people in a project
+2. when i need to access my project from different computer
+
