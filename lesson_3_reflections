@@ -16,3 +16,13 @@ Describe the differences between forks, clones, and branches. When would you use
 fork means clonening the repository but on github
 clonening the repostitory means copying the history and file onto your local repository
 branches would be used when you are making change but you are not sure to include it into main project.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+by having copy of last known state of remote stored locally , we can check or compare that is there any conflict in our commit and at remote side.
+w can remove merge conflict easily.
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when i am working on a diferent feature and i do changes on my computer
